@@ -1,1 +1,33 @@
 Различаются двумя предпоследними строчками (13-14), в первом файле на 1 строку больше
+
+21 коммит
+
+Merge pull request #1 from Yakser/master …
+  
+Merge remote-tracking branch 'stable/master' into stable
+
+Hometask file1
+
+Hometask file
+
+heat added
+
+first
+ 
+first
+ 
+dots
+ 
+boots
+
+MobDev-Hobby authored and Yakser committed 26 days ago
+ 
+Hometask file
+
+Merge remote-tracking branch 'origin/hat'
+
+first
+
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+
+Merge remote-tracking branch 'origin/boots' into boots_buttons
